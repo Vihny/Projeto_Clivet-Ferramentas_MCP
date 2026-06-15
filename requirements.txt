@@ -1,0 +1,7 @@
+python-dotenv==1.2.2
+openai
+mcp[server]
+mcp[cli]
+mcp==1.27.0
+google-generativeai>=0.3.0
+uv==0.11.6
